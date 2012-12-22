@@ -3,7 +3,6 @@
 
 TARGET_KERNEL_SOURCE := kernel/semc/msm7x30
 TARGET_KERNEL_CONFIG := pac_satsuma_defconfig
-#TARGET_PREBUILT_KERNEL := device/semc/satsuma/prebuilt/kernel
 TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-gnueabihf-linaro-4.7
 
 TARGET_RECOVERY_INITRC := device/semc/satsuma/recovery/init.rc
